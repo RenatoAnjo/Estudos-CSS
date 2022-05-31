@@ -1,0 +1,20 @@
+.example {
+  color: #FFF;
+}
+
+.example.item {
+  width: 33.333%;
+  height: 150px;
+}
+
+.example.item_first {
+  background-color: #faa116;
+}
+
+.example.item_second {
+  background-color: #57c7c3;
+}
+
+.example.item_trird {
+  background-color: #3b97d3;
+}
