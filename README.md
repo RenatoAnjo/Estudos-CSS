@@ -1,5 +1,5 @@
 # PARE DE CHUTAR CSS
-## Objetivo
+## Objetivo:
 Aprimorar conceitos CSS:
 <ul>
  <li>Display: Inline</li>
@@ -10,3 +10,7 @@ Aprimorar conceitos CSS:
  <li>Position: Absolute</li>
  <li>Position: Fixed</li>
 </ul>
+
+## Link para o Projeto:
+
+<a href="https://renatoanjo.github.io/Estudos-CSS/">Pare de Chutar CSS</a>
