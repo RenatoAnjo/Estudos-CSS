@@ -4,7 +4,9 @@
 }
 
 .example-item {
-  display: inline;
+  width: 33.333%;
+  height: 150px;
+  display: block;
 }
 
 .example-item_first {
@@ -13,8 +15,11 @@
 
 .example-item_second {
   background-color: #57c7c3;
+  margin-left: auto;
 }
 
 .example-item_third {
   background-color: #3b97d3;
+  margin-left: auto;
+  margin-right: auto;
 }
